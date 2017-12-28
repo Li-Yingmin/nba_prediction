@@ -1,0 +1,444 @@
+date,win,lose,probability
+Fri Dec 1 2017,Chicago Bulls,Sacramento Kings,0.68626612826194522
+Fri Dec 1 2017,San Antonio Spurs,Memphis Grizzlies,0.85693454657025137
+Fri Dec 1 2017,Miami Heat,Charlotte Hornets,0.55765875275067811
+Fri Dec 1 2017,Oklahoma City Thunder,Minnesota Timberwolves,0.86620366018451256
+Fri Dec 1 2017,Golden State Warriors,Orlando Magic,0.89157104151472033
+Fri Dec 1 2017,Toronto Raptors,Indiana Pacers,0.69681661510572412
+Fri Dec 1 2017,Utah Jazz,New Orleans Pelicans,0.74856480397538339
+Fri Dec 1 2017,Washington Wizards,Detroit Pistons,0.50306850123240421
+Sat Dec 2 2017,Boston Celtics,Phoenix Suns,0.86523385316270152
+Sat Dec 2 2017,Atlanta Hawks,Brooklyn Nets,0.86709635426797171
+Sat Dec 2 2017,Cleveland Cavaliers,Memphis Grizzlies,0.87922832178653532
+Sat Dec 2 2017,Los Angeles Clippers,Dallas Mavericks,0.58603079290605975
+Sat Dec 2 2017,Denver Nuggets,Los Angeles Lakers,0.74992347392735281
+Sat Dec 2 2017,Sacramento Kings,Milwaukee Bucks,0.52616276703002185
+Sat Dec 2 2017,Detroit Pistons,Philadelphia 76ers,0.88880818282620389
+Sat Dec 2 2017,Portland Trail Blazers,New Orleans Pelicans,0.81534638201184673
+Sun Dec 3 2017,Houston Rockets,Los Angeles Lakers,0.79319434372919051
+Sun Dec 3 2017,Golden State Warriors,Miami Heat,0.7590258918387095
+Sun Dec 3 2017,Los Angeles Clippers,Minnesota Timberwolves,0.77770225286345041
+Sun Dec 3 2017,New York Knicks,Orlando Magic,0.5046736369544802
+Sun Dec 3 2017,San Antonio Spurs,Oklahoma City Thunder,0.56352084833752092
+Mon Dec 4 2017,Atlanta Hawks,Brooklyn Nets,0.87855561647435743
+Mon Dec 4 2017,Boston Celtics,Milwaukee Bucks,0.78793143076565053
+Mon Dec 4 2017,Cleveland Cavaliers,Chicago Bulls,0.72743828065672123
+Mon Dec 4 2017,Charlotte Hornets,Orlando Magic,0.74154350758463183
+Mon Dec 4 2017,Dallas Mavericks,Denver Nuggets,0.67845770644001058
+Mon Dec 4 2017,Indiana Pacers,New York Knicks,0.7758471847532844
+Mon Dec 4 2017,Memphis Grizzlies,Minnesota Timberwolves,0.58253916384596149
+Mon Dec 4 2017,Golden State Warriors,New Orleans Pelicans,0.92384397882484925
+Mon Dec 4 2017,Phoenix Suns,Philadelphia 76ers,0.67553074578016248
+Mon Dec 4 2017,San Antonio Spurs,Detroit Pistons,0.83744407249702346
+Mon Dec 4 2017,Utah Jazz,Washington Wizards,0.5849146545089805
+Tue Dec 5 2017,Oklahoma City Thunder,Utah Jazz,0.80000585936347524
+Tue Dec 5 2017,Portland Trail Blazers,Washington Wizards,0.67637026812381784
+Tue Dec 5 2017,Toronto Raptors,Phoenix Suns,0.91279822557481671
+Wed Dec 6 2017,Boston Celtics,Dallas Mavericks,0.68594205229822725
+Wed Dec 6 2017,Golden State Warriors,Charlotte Hornets,0.77514565789509748
+Wed Dec 6 2017,Cleveland Cavaliers,Sacramento Kings,0.89269842209989569
+Wed Dec 6 2017,Indiana Pacers,Chicago Bulls,0.66836195361423334
+Wed Dec 6 2017,Los Angeles Clippers,Minnesota Timberwolves,0.8097126389488406
+Wed Dec 6 2017,Detroit Pistons,Milwaukee Bucks,0.68506880544916915
+Wed Dec 6 2017,Denver Nuggets,New Orleans Pelicans,0.54275371294092323
+Wed Dec 6 2017,Memphis Grizzlies,New York Knicks,0.50408892748358747
+Wed Dec 6 2017,Atlanta Hawks,Orlando Magic,0.68443098653179435
+Wed Dec 6 2017,San Antonio Spurs,Miami Heat,0.80564714554143213
+Thu Dec 7 2017,Oklahoma City Thunder,Brooklyn Nets,0.92908507979739885
+Thu Dec 7 2017,Los Angeles Lakers,Philadelphia 76ers,0.56379434570137432
+Thu Dec 7 2017,Washington Wizards,Phoenix Suns,0.73102671469409697
+Thu Dec 7 2017,Utah Jazz,Houston Rockets,0.57015054679755728
+Fri Dec 8 2017,Charlotte Hornets,Chicago Bulls,0.71241474082606204
+Fri Dec 8 2017,Golden State Warriors,Detroit Pistons,0.83963750669579928
+Fri Dec 8 2017,Cleveland Cavaliers,Indiana Pacers,0.69387996675935526
+Fri Dec 8 2017,Toronto Raptors,Memphis Grizzlies,0.72570208674491843
+Fri Dec 8 2017,Dallas Mavericks,Milwaukee Bucks,0.62482792017394506
+Fri Dec 8 2017,Sacramento Kings,New Orleans Pelicans,0.52641114016423773
+Fri Dec 8 2017,Orlando Magic,Denver Nuggets,0.55414575417566203
+Fri Dec 8 2017,San Antonio Spurs,Boston Celtics,0.78939848206626018
+Sat Dec 9 2017,Atlanta Hawks,Orlando Magic,0.73859011128055574
+Sat Dec 9 2017,Miami Heat,Brooklyn Nets,0.84657271445905691
+Sat Dec 9 2017,Chicago Bulls,New York Knicks,0.74616932935764069
+Sat Dec 9 2017,Charlotte Hornets,Los Angeles Lakers,0.90904655303427617
+Sat Dec 9 2017,Cleveland Cavaliers,Philadelphia 76ers,0.97245567009221601
+Sat Dec 9 2017,Los Angeles Clippers,Washington Wizards,0.71952867203636728
+Sat Dec 9 2017,Oklahoma City Thunder,Memphis Grizzlies,0.80440251112183281
+Sat Dec 9 2017,Utah Jazz,Milwaukee Bucks,0.644167987172934
+Sat Dec 9 2017,San Antonio Spurs,Phoenix Suns,0.931952999550268
+Sat Dec 9 2017,Portland Trail Blazers,Houston Rockets,0.6629848398888516
+Sun Dec 10 2017,Boston Celtics,Detroit Pistons,0.56364405445495214
+Sun Dec 10 2017,Indiana Pacers,Denver Nuggets,0.70689936264279041
+Sun Dec 10 2017,Dallas Mavericks,Minnesota Timberwolves,0.62192019946006583
+Sun Dec 10 2017,New Orleans Pelicans,Philadelphia 76ers,0.79243720575769871
+Sun Dec 10 2017,Atlanta Hawks,New York Knicks,0.71914611308849974
+Sun Dec 10 2017,Toronto Raptors,Sacramento Kings,0.76175981137954096
+Mon Dec 11 2017,Boston Celtics,Chicago Bulls,0.55174578396781337
+Mon Dec 11 2017,Golden State Warriors,Portland Trail Blazers,0.8241648446209292
+Mon Dec 11 2017,Houston Rockets,New Orleans Pelicans,0.73330548935163165
+Mon Dec 11 2017,Los Angeles Clippers,Toronto Raptors,0.53544384799778966
+Mon Dec 11 2017,Miami Heat,Memphis Grizzlies,0.63397102346473688
+Mon Dec 11 2017,Oklahoma City Thunder,Charlotte Hornets,0.70351257587359739
+Tue Dec 12 2017,Washington Wizards,Brooklyn Nets,0.79108734026715111
+Tue Dec 12 2017,Cleveland Cavaliers,Atlanta Hawks,0.74293295689038519
+Tue Dec 12 2017,San Antonio Spurs,Dallas Mavericks,0.78887628229400852
+Tue Dec 12 2017,Detroit Pistons,Denver Nuggets,0.66123264893519906
+Tue Dec 12 2017,Minnesota Timberwolves,Philadelphia 76ers,0.79462954488274251
+Tue Dec 12 2017,New York Knicks,Los Angeles Lakers,0.78018368705937258
+Tue Dec 12 2017,Sacramento Kings,Phoenix Suns,0.69507644429054305
+Wed Dec 13 2017,Boston Celtics,Denver Nuggets,0.75415003534791347
+Wed Dec 13 2017,Chicago Bulls,Utah Jazz,0.57296688246743765
+Wed Dec 13 2017,Charlotte Hornets,Houston Rockets,0.55829204827381096
+Wed Dec 13 2017,Oklahoma City Thunder,Indiana Pacers,0.69178284890172204
+Wed Dec 13 2017,Miami Heat,Portland Trail Blazers,0.54965808569855146
+Wed Dec 13 2017,New Orleans Pelicans,Milwaukee Bucks,0.50504933845996791
+Wed Dec 13 2017,Los Angeles Clippers,Orlando Magic,0.70616658001505894
+Wed Dec 13 2017,Toronto Raptors,Phoenix Suns,0.85814275440431809
+Wed Dec 13 2017,Washington Wizards,Memphis Grizzlies,0.63442088352759396
+Thu Dec 14 2017,Atlanta Hawks,Detroit Pistons,0.61411589925410492
+Thu Dec 14 2017,New York Knicks,Brooklyn Nets,0.62776123091940805
+Thu Dec 14 2017,Cleveland Cavaliers,Los Angeles Lakers,0.96332289774124447
+Thu Dec 14 2017,Golden State Warriors,Dallas Mavericks,0.89869966978854832
+Thu Dec 14 2017,Sacramento Kings,Minnesota Timberwolves,0.52307403760794935
+Fri Dec 15 2017,Boston Celtics,Utah Jazz,0.66770122666687237
+Fri Dec 15 2017,Charlotte Hornets,Miami Heat,0.56528459350036731
+Fri Dec 15 2017,Denver Nuggets,New Orleans Pelicans,0.54568754402534025
+Fri Dec 15 2017,San Antonio Spurs,Houston Rockets,0.79474659162524952
+Fri Dec 15 2017,Indiana Pacers,Detroit Pistons,0.56798738789849657
+Fri Dec 15 2017,Atlanta Hawks,Memphis Grizzlies,0.6719123502422667
+Fri Dec 15 2017,Chicago Bulls,Milwaukee Bucks,0.58662335147772893
+Fri Dec 15 2017,Portland Trail Blazers,Orlando Magic,0.68140892250579366
+Fri Dec 15 2017,Oklahoma City Thunder,Philadelphia 76ers,0.95932969619402242
+Fri Dec 15 2017,Toronto Raptors,Brooklyn Nets,0.92533536059961297
+Fri Dec 15 2017,Los Angeles Clippers,Washington Wizards,0.61663075571063186
+Sat Dec 16 2017,Charlotte Hornets,Portland Trail Blazers,0.52723242006393767
+Sat Dec 16 2017,Cleveland Cavaliers,Utah Jazz,0.83614928033602676
+Sat Dec 16 2017,Houston Rockets,Milwaukee Bucks,0.71150646508494353
+Sat Dec 16 2017,Boston Celtics,Memphis Grizzlies,0.65700096026551336
+Sat Dec 16 2017,Miami Heat,Los Angeles Clippers,0.52066456620563806
+Sat Dec 16 2017,Minnesota Timberwolves,Phoenix Suns,0.64119088051623707
+Sat Dec 16 2017,Oklahoma City Thunder,New York Knicks,0.83718408207374662
+Sat Dec 16 2017,San Antonio Spurs,Dallas Mavericks,0.87061483983242494
+Sun Dec 17 2017,Indiana Pacers,Brooklyn Nets,0.84042537672119288
+Sun Dec 17 2017,Detroit Pistons,Orlando Magic,0.6538648047420047
+Sun Dec 17 2017,Toronto Raptors,Sacramento Kings,0.84229336079395223
+Sun Dec 17 2017,Cleveland Cavaliers,Washington Wizards,0.74643568690628048
+Mon Dec 18 2017,Atlanta Hawks,Miami Heat,0.56150807315233675
+Mon Dec 18 2017,Chicago Bulls,Philadelphia 76ers,0.90274842539272693
+Mon Dec 18 2017,Charlotte Hornets,New York Knicks,0.80968777473375975
+Mon Dec 18 2017,Dallas Mavericks,Phoenix Suns,0.8153690648732419
+Mon Dec 18 2017,Houston Rockets,Utah Jazz,0.57151053000551799
+Mon Dec 18 2017,Boston Celtics,Indiana Pacers,0.51109430525589394
+Mon Dec 18 2017,Golden State Warriors,Los Angeles Lakers,0.95931989689180386
+Mon Dec 18 2017,Portland Trail Blazers,Minnesota Timberwolves,0.75689702837023742
+Mon Dec 18 2017,Oklahoma City Thunder,Denver Nuggets,0.85928868332242059
+Mon Dec 18 2017,San Antonio Spurs,Los Angeles Clippers,0.75983706382354033
+Tue Dec 19 2017,Cleveland Cavaliers,Milwaukee Bucks,0.86635772062872651
+Tue Dec 19 2017,Sacramento Kings,Philadelphia 76ers,0.80316688692801463
+Tue Dec 19 2017,Washington Wizards,New Orleans Pelicans,0.71491580944215338
+Wed Dec 20 2017,Atlanta Hawks,Indiana Pacers,0.57294027633796463
+Wed Dec 20 2017,Boston Celtics,Miami Heat,0.57365521538035558
+Wed Dec 20 2017,Sacramento Kings,Brooklyn Nets,0.69385180994842277
+Wed Dec 20 2017,Chicago Bulls,Orlando Magic,0.66469972664921984
+Wed Dec 20 2017,Toronto Raptors,Charlotte Hornets,0.5401623655812311
+Wed Dec 20 2017,Dallas Mavericks,Detroit Pistons,0.53493428762264228
+Wed Dec 20 2017,Minnesota Timberwolves,Denver Nuggets,0.51467332291094792
+Wed Dec 20 2017,Golden State Warriors,Memphis Grizzlies,0.92090748508497933
+Wed Dec 20 2017,Houston Rockets,Los Angeles Lakers,0.87285057021191803
+Wed Dec 20 2017,Los Angeles Clippers,Phoenix Suns,0.89362600862840369
+Wed Dec 20 2017,Oklahoma City Thunder,Utah Jazz,0.80000585936347524
+Wed Dec 20 2017,San Antonio Spurs,Portland Trail Blazers,0.70684401913814709
+Thu Dec 21 2017,Cleveland Cavaliers,Chicago Bulls,0.86684292998566748
+Thu Dec 21 2017,Boston Celtics,New York Knicks,0.70544035752977408
+Thu Dec 21 2017,Toronto Raptors,Philadelphia 76ers,0.93817452805407398
+Thu Dec 21 2017,Memphis Grizzlies,Phoenix Suns,0.65021800678333019
+Thu Dec 21 2017,San Antonio Spurs,Utah Jazz,0.78147180009212991
+Fri Dec 22 2017,Washington Wizards,Brooklyn Nets,0.79108734026715111
+Fri Dec 22 2017,Detroit Pistons,New York Knicks,0.7369250863222373
+Fri Dec 22 2017,Golden State Warriors,Los Angeles Lakers,0.97674793205621024
+Fri Dec 22 2017,Los Angeles Clippers,Houston Rockets,0.59464310406152499
+Fri Dec 22 2017,Miami Heat,Dallas Mavericks,0.69790151638416176
+Fri Dec 22 2017,Charlotte Hornets,Milwaukee Bucks,0.75319968857924013
+Fri Dec 22 2017,Oklahoma City Thunder,Atlanta Hawks,0.6937581952378008
+Fri Dec 22 2017,Orlando Magic,New Orleans Pelicans,0.62663643610347752
+Fri Dec 22 2017,Portland Trail Blazers,Denver Nuggets,0.76580134170650882
+Sat Dec 23 2017,Atlanta Hawks,Dallas Mavericks,0.67518264822053509
+Sat Dec 23 2017,Boston Celtics,Chicago Bulls,0.71935880831791654
+Sat Dec 23 2017,Charlotte Hornets,Milwaukee Bucks,0.78217030638635132
+Sat Dec 23 2017,Golden State Warriors,Denver Nuggets,0.92570510515697846
+Sat Dec 23 2017,Indiana Pacers,Brooklyn Nets,0.8566598717802586
+Sat Dec 23 2017,Portland Trail Blazers,Los Angeles Lakers,0.85982651051745063
+Sat Dec 23 2017,Los Angeles Clippers,Memphis Grizzlies,0.69412485156074522
+Sat Dec 23 2017,Miami Heat,New Orleans Pelicans,0.81417310052348335
+Sat Dec 23 2017,Minnesota Timberwolves,Phoenix Suns,0.62100561932786813
+Sat Dec 23 2017,San Antonio Spurs,Sacramento Kings,0.878626406155951
+Sat Dec 23 2017,Toronto Raptors,Philadelphia 76ers,0.95774318809007419
+Sat Dec 23 2017,Oklahoma City Thunder,Utah Jazz,0.71058883100156733
+Sat Dec 23 2017,Washington Wizards,Orlando Magic,0.64251138902031579
+Mon Dec 25 2017,Boston Celtics,Washington Wizards,0.66223216492143833
+Mon Dec 25 2017,Golden State Warriors,Cleveland Cavaliers,0.69504651146057472
+Mon Dec 25 2017,Minnesota Timberwolves,Los Angeles Lakers,0.68519567350297883
+Mon Dec 25 2017,New York Knicks,Philadelphia 76ers,0.8267159347196863
+Mon Dec 25 2017,Oklahoma City Thunder,Houston Rockets,0.78604791831965726
+Tue Dec 26 2017,Toronto Raptors,Dallas Mavericks,0.62270151811334373
+Tue Dec 26 2017,Utah Jazz,Denver Nuggets,0.63185438932095861
+Tue Dec 26 2017,Indiana Pacers,Detroit Pistons,0.52715443088600011
+Tue Dec 26 2017,Los Angeles Clippers,Sacramento Kings,0.81083237895401983
+Tue Dec 26 2017,Miami Heat,Orlando Magic,0.75846059139433497
+Tue Dec 26 2017,Chicago Bulls,Milwaukee Bucks,0.58662335147772893
+Tue Dec 26 2017,Memphis Grizzlies,Phoenix Suns,0.65021800678333019
+Tue Dec 26 2017,San Antonio Spurs,Brooklyn Nets,0.95904674690327285
+Wed Dec 27 2017,Atlanta Hawks,Washington Wizards,0.65107367101865177
+Wed Dec 27 2017,Chicago Bulls,New York Knicks,0.74616932935764069
+Wed Dec 27 2017,Charlotte Hornets,Boston Celtics,0.54040436777074519
+Wed Dec 27 2017,Golden State Warriors,Utah Jazz,0.89084970280949716
+Wed Dec 27 2017,Indiana Pacers,Dallas Mavericks,0.63197943676320167
+Wed Dec 27 2017,Memphis Grizzlies,Los Angeles Lakers,0.71175687091930673
+Wed Dec 27 2017,Denver Nuggets,Minnesota Timberwolves,0.53943101386557535
+Wed Dec 27 2017,New Orleans Pelicans,Brooklyn Nets,0.67612380198020205
+Wed Dec 27 2017,Oklahoma City Thunder,Toronto Raptors,0.63683904024773019
+Wed Dec 27 2017,Cleveland Cavaliers,Sacramento Kings,0.83387211511537029
+Thu Dec 28 2017,Boston Celtics,Houston Rockets,0.64856581295158988
+Thu Dec 28 2017,Minnesota Timberwolves,Milwaukee Bucks,0.52797837250962876
+Thu Dec 28 2017,Detroit Pistons,Orlando Magic,0.59611230091870615
+Thu Dec 28 2017,Portland Trail Blazers,Philadelphia 76ers,0.93678225907317403
+Thu Dec 28 2017,San Antonio Spurs,New York Knicks,0.93133091027820847
+Fri Dec 29 2017,Indiana Pacers,Chicago Bulls,0.51511712684817512
+Fri Dec 29 2017,Golden State Warriors,Charlotte Hornets,0.82880758857727121
+Fri Dec 29 2017,Los Angeles Clippers,Los Angeles Lakers,0.8732974176591104
+Fri Dec 29 2017,Miami Heat,Brooklyn Nets,0.88938037721703533
+Fri Dec 29 2017,Dallas Mavericks,New Orleans Pelicans,0.62506142914716945
+Fri Dec 29 2017,Oklahoma City Thunder,Milwaukee Bucks,0.88090476619359825
+Fri Dec 29 2017,Sacramento Kings,Phoenix Suns,0.69507644429054305
+Fri Dec 29 2017,Toronto Raptors,Atlanta Hawks,0.64977610569596145
+Fri Dec 29 2017,Washington Wizards,Houston Rockets,0.52768992938835213
+Sat Dec 30 2017,Atlanta Hawks,Portland Trail Blazers,0.52340403559068582
+Sat Dec 30 2017,Denver Nuggets,Philadelphia 76ers,0.80122940968170975
+Sat Dec 30 2017,San Antonio Spurs,Detroit Pistons,0.80155889751085696
+Sat Dec 30 2017,Golden State Warriors,Memphis Grizzlies,0.92090748508497933
+Sat Dec 30 2017,New Orleans Pelicans,New York Knicks,0.54731346044503693
+Sat Dec 30 2017,Miami Heat,Orlando Magic,0.64717717062760627
+Sat Dec 30 2017,Cleveland Cavaliers,Utah Jazz,0.71261114965692185
+Sun Dec 31 2017,Boston Celtics,Brooklyn Nets,0.88373839591441705
+Sun Dec 31 2017,Houston Rockets,Los Angeles Lakers,0.87285057021191803
+Sun Dec 31 2017,Indiana Pacers,Minnesota Timberwolves,0.71885295706118812
+Sun Dec 31 2017,Los Angeles Clippers,Charlotte Hornets,0.60931261518829372
+Sun Dec 31 2017,Oklahoma City Thunder,Dallas Mavericks,0.81301790894604387
+Sun Dec 31 2017,Phoenix Suns,Philadelphia 76ers,0.7228989807997247
+Sun Dec 31 2017,Sacramento Kings,Memphis Grizzlies,0.50439980439417365
+Sun Dec 31 2017,Washington Wizards,Chicago Bulls,0.60811973501599048
+Mon Jan 1 2018,Orlando Magic,Brooklyn Nets,0.71434895268316945
+Mon Jan 1 2018,Portland Trail Blazers,Chicago Bulls,0.56479851501465794
+Mon Jan 1 2018,Minnesota Timberwolves,Los Angeles Lakers,0.74216826484997367
+Mon Jan 1 2018,Toronto Raptors,Milwaukee Bucks,0.85831109755402069
+Tue Jan 2 2018,Cleveland Cavaliers,Portland Trail Blazers,0.74558931404201456
+Tue Jan 2 2018,Los Angeles Clippers,Memphis Grizzlies,0.78950847819463532
+Tue Jan 2 2018,San Antonio Spurs,New York Knicks,0.8822012132487016
+Tue Jan 2 2018,Atlanta Hawks,Phoenix Suns,0.82402682839141406
+Tue Jan 2 2018,Charlotte Hornets,Sacramento Kings,0.70264848954809733
+Wed Jan 3 2018,Cleveland Cavaliers,Boston Celtics,0.64056657864633615
+Wed Jan 3 2018,Minnesota Timberwolves,Brooklyn Nets,0.6953968530008986
+Wed Jan 3 2018,Toronto Raptors,Chicago Bulls,0.62964492570589115
+Wed Jan 3 2018,Golden State Warriors,Dallas Mavericks,0.82886896326324555
+Wed Jan 3 2018,Denver Nuggets,Phoenix Suns,0.65055326614834408
+Wed Jan 3 2018,Oklahoma City Thunder,Los Angeles Lakers,0.92587591664071955
+Wed Jan 3 2018,Miami Heat,Detroit Pistons,0.63882116381031384
+Wed Jan 3 2018,Indiana Pacers,Milwaukee Bucks,0.72070354257079927
+Wed Jan 3 2018,Houston Rockets,Orlando Magic,0.57216583346087435
+Wed Jan 3 2018,San Antonio Spurs,Philadelphia 76ers,0.97171566329716963
+Wed Jan 3 2018,Utah Jazz,New Orleans Pelicans,0.74856480397538339
+Wed Jan 3 2018,Washington Wizards,New York Knicks,0.72715926158778421
+Thu Jan 4 2018,Golden State Warriors,Houston Rockets,0.83386146209591616
+Thu Jan 4 2018,Oklahoma City Thunder,Los Angeles Clippers,0.57422309626509105
+Fri Jan 5 2018,Boston Celtics,Minnesota Timberwolves,0.76481771034854062
+Fri Jan 5 2018,Dallas Mavericks,Chicago Bulls,0.63809524496607484
+Fri Jan 5 2018,Utah Jazz,Denver Nuggets,0.63185438932095861
+Fri Jan 5 2018,Charlotte Hornets,Los Angeles Lakers,0.85587871862263531
+Fri Jan 5 2018,Washington Wizards,Memphis Grizzlies,0.54309617588051617
+Fri Jan 5 2018,Miami Heat,New York Knicks,0.82320791696143025
+Fri Jan 5 2018,Toronto Raptors,Milwaukee Bucks,0.80504995585512784
+Fri Jan 5 2018,Detroit Pistons,Philadelphia 76ers,0.88880818282620389
+Fri Jan 5 2018,Portland Trail Blazers,Atlanta Hawks,0.54812728675783706
+Fri Jan 5 2018,San Antonio Spurs,Phoenix Suns,0.95187578806368656
+Sat Jan 6 2018,Boston Celtics,Brooklyn Nets,0.85919699465405941
+Sat Jan 6 2018,Detroit Pistons,Houston Rockets,0.54007964634189964
+Sat Jan 6 2018,Indiana Pacers,Chicago Bulls,0.66836195361423334
+Sat Jan 6 2018,Golden State Warriors,Los Angeles Clippers,0.7180052106526843
+Sat Jan 6 2018,Minnesota Timberwolves,New Orleans Pelicans,0.53552155117067035
+Sat Jan 6 2018,Cleveland Cavaliers,Orlando Magic,0.81476256953795501
+Sat Jan 6 2018,Sacramento Kings,Denver Nuggets,0.52133000078039626
+Sat Jan 6 2018,Washington Wizards,Milwaukee Bucks,0.69224449137229482
+Sun Jan 7 2018,Dallas Mavericks,New York Knicks,0.75174641556625921
+Sun Jan 7 2018,Atlanta Hawks,Los Angeles Lakers,0.8615001489136378
+Sun Jan 7 2018,Miami Heat,Utah Jazz,0.68003129334290968
+Sun Jan 7 2018,Oklahoma City Thunder,Phoenix Suns,0.90387705454464951
+Sun Jan 7 2018,San Antonio Spurs,Portland Trail Blazers,0.70684401913814709
+Mon Jan 8 2018,Toronto Raptors,Brooklyn Nets,0.89393712807247805
+Mon Jan 8 2018,Chicago Bulls,Houston Rockets,0.55203616326303961
+Mon Jan 8 2018,Golden State Warriors,Denver Nuggets,0.92570510515697846
+Mon Jan 8 2018,Indiana Pacers,Milwaukee Bucks,0.74497779873185721
+Mon Jan 8 2018,Los Angeles Clippers,Atlanta Hawks,0.5982289822946556
+Mon Jan 8 2018,Cleveland Cavaliers,Minnesota Timberwolves,0.86491724489240107
+Mon Jan 8 2018,Detroit Pistons,New Orleans Pelicans,0.68528370546554507
+Mon Jan 8 2018,San Antonio Spurs,Sacramento Kings,0.878626406155951
+Tue Jan 9 2018,Dallas Mavericks,Orlando Magic,0.67127824934677005
+Tue Jan 9 2018,Sacramento Kings,Los Angeles Lakers,0.68362242810871554
+Tue Jan 9 2018,Oklahoma City Thunder,Portland Trail Blazers,0.69671525556542824
+Tue Jan 9 2018,Toronto Raptors,Miami Heat,0.68688827117664109
+Wed Jan 10 2018,Detroit Pistons,Brooklyn Nets,0.81616943750625226
+Wed Jan 10 2018,Charlotte Hornets,Dallas Mavericks,0.67854062861350184
+Wed Jan 10 2018,Atlanta Hawks,Denver Nuggets,0.75189841254442036
+Wed Jan 10 2018,Golden State Warriors,Los Angeles Clippers,0.80662688968533269
+Wed Jan 10 2018,Portland Trail Blazers,Houston Rockets,0.56626036684109571
+Wed Jan 10 2018,Indiana Pacers,Miami Heat,0.51406693149024763
+Wed Jan 10 2018,Memphis Grizzlies,New Orleans Pelicans,0.63995692460879072
+Wed Jan 10 2018,Orlando Magic,Milwaukee Bucks,0.55061558412946265
+Wed Jan 10 2018,Oklahoma City Thunder,Minnesota Timberwolves,0.86376178415876459
+Wed Jan 10 2018,Chicago Bulls,New York Knicks,0.5319988308713981
+Wed Jan 10 2018,Washington Wizards,Utah Jazz,0.54882849593814687
+Thu Jan 11 2018,San Antonio Spurs,Los Angeles Lakers,0.94789674594658224
+Thu Jan 11 2018,Boston Celtics,Philadelphia 76ers,0.91657176680384944
+Thu Jan 11 2018,Los Angeles Clippers,Sacramento Kings,0.73280521085406902
+Thu Jan 11 2018,Cleveland Cavaliers,Toronto Raptors,0.52223350760035037
+Fri Jan 12 2018,Atlanta Hawks,Brooklyn Nets,0.87855561647435743
+Fri Jan 12 2018,Charlotte Hornets,Utah Jazz,0.66008294769365305
+Fri Jan 12 2018,Memphis Grizzlies,Denver Nuggets,0.54609103073152476
+Fri Jan 12 2018,Cleveland Cavaliers,Indiana Pacers,0.69387996675935526
+Fri Jan 12 2018,Golden State Warriors,Milwaukee Bucks,0.9237738570434757
+Fri Jan 12 2018,Minnesota Timberwolves,New York Knicks,0.55062666567406671
+Fri Jan 12 2018,Portland Trail Blazers,New Orleans Pelicans,0.75935075521480189
+Fri Jan 12 2018,Houston Rockets,Phoenix Suns,0.74275825285174624
+Fri Jan 12 2018,Washington Wizards,Orlando Magic,0.64251138902031579
+Sat Jan 13 2018,Chicago Bulls,Detroit Pistons,0.52754758866045437
+Sat Jan 13 2018,Oklahoma City Thunder,Charlotte Hornets,0.64613943701888699
+Sat Jan 13 2018,Dallas Mavericks,Los Angeles Lakers,0.8767507610356795
+Sat Jan 13 2018,Los Angeles Clippers,Sacramento Kings,0.81083237895401983
+Sat Jan 13 2018,San Antonio Spurs,Denver Nuggets,0.90431015628889022
+Sat Jan 13 2018,Golden State Warriors,Toronto Raptors,0.67142215597086219
+Sat Jan 13 2018,Washington Wizards,Brooklyn Nets,0.82148636573193912
+Sun Jan 14 2018,Miami Heat,Milwaukee Bucks,0.79715559858326646
+Sun Jan 14 2018,Portland Trail Blazers,Minnesota Timberwolves,0.75689702837023742
+Sun Jan 14 2018,New York Knicks,New Orleans Pelicans,0.58705262388318169
+Sun Jan 14 2018,Indiana Pacers,Phoenix Suns,0.79079800904574293
+Mon Jan 15 2018,San Antonio Spurs,Atlanta Hawks,0.72977548858736019
+Mon Jan 15 2018,New York Knicks,Brooklyn Nets,0.62776123091940805
+Mon Jan 15 2018,Miami Heat,Chicago Bulls,0.52673941506237276
+Mon Jan 15 2018,Golden State Warriors,Cleveland Cavaliers,0.5674391772478552
+Mon Jan 15 2018,Charlotte Hornets,Detroit Pistons,0.56869320353158526
+Mon Jan 15 2018,Los Angeles Clippers,Houston Rockets,0.70715542715129676
+Mon Jan 15 2018,Memphis Grizzlies,Los Angeles Lakers,0.81609628683811208
+Mon Jan 15 2018,Oklahoma City Thunder,Sacramento Kings,0.86704556369742558
+Mon Jan 15 2018,Toronto Raptors,Philadelphia 76ers,0.93817452805407398
+Mon Jan 15 2018,Utah Jazz,Indiana Pacers,0.50326930651416435
+Mon Jan 15 2018,Washington Wizards,Milwaukee Bucks,0.69224449137229482
+Tue Jan 16 2018,Boston Celtics,New Orleans Pelicans,0.80553400640980599
+Tue Jan 16 2018,Dallas Mavericks,Denver Nuggets,0.61224791648095611
+Tue Jan 16 2018,Orlando Magic,Minnesota Timberwolves,0.56852663245816148
+Tue Jan 16 2018,Portland Trail Blazers,Phoenix Suns,0.87251064403327783
+Wed Jan 17 2018,Atlanta Hawks,New Orleans Pelicans,0.79766317936550502
+Wed Jan 17 2018,San Antonio Spurs,Brooklyn Nets,0.95020380434762519
+Wed Jan 17 2018,Golden State Warriors,Chicago Bulls,0.83303558648839859
+Wed Jan 17 2018,Charlotte Hornets,Washington Wizards,0.65455337166277172
+Wed Jan 17 2018,Los Angeles Clippers,Denver Nuggets,0.80055030792344395
+Wed Jan 17 2018,Memphis Grizzlies,New York Knicks,0.65386096719653775
+Wed Jan 17 2018,Miami Heat,Milwaukee Bucks,0.72998115130765129
+Wed Jan 17 2018,Oklahoma City Thunder,Los Angeles Lakers,0.95367828827611523
+Wed Jan 17 2018,Utah Jazz,Sacramento Kings,0.58362971095868299
+Wed Jan 17 2018,Toronto Raptors,Detroit Pistons,0.73164278493829482
+Thu Jan 18 2018,Boston Celtics,Philadelphia 76ers,0.93289178340402723
+Thu Jan 18 2018,Cleveland Cavaliers,Orlando Magic,0.8829010652109156
+Thu Jan 18 2018,Houston Rockets,Minnesota Timberwolves,0.68340991644458926
+Thu Jan 18 2018,Portland Trail Blazers,Indiana Pacers,0.60042499075190803
+Fri Jan 19 2018,Miami Heat,Brooklyn Nets,0.84657271445905691
+Fri Jan 19 2018,Denver Nuggets,Phoenix Suns,0.65055326614834408
+Fri Jan 19 2018,Detroit Pistons,Washington Wizards,0.55507059705255113
+Fri Jan 19 2018,Indiana Pacers,Los Angeles Lakers,0.83392123118964978
+Fri Jan 19 2018,Memphis Grizzlies,Sacramento Kings,0.58430941461137331
+Fri Jan 19 2018,San Antonio Spurs,Toronto Raptors,0.61186465327465789
+Fri Jan 19 2018,Utah Jazz,New York Knicks,0.75984857692932872
+Sat Jan 20 2018,Atlanta Hawks,Chicago Bulls,0.70925899319410002
+Sat Jan 20 2018,Charlotte Hornets,Miami Heat,0.56528459350036731
+Sat Jan 20 2018,Cleveland Cavaliers,Oklahoma City Thunder,0.59002654936813692
+Sat Jan 20 2018,Golden State Warriors,Houston Rockets,0.83386146209591616
+Sat Jan 20 2018,Toronto Raptors,Minnesota Timberwolves,0.80309885436289175
+Sat Jan 20 2018,Memphis Grizzlies,New Orleans Pelicans,0.55951787943919862
+Sat Jan 20 2018,Milwaukee Bucks,Philadelphia 76ers,0.78249492811856936
+Sat Jan 20 2018,Portland Trail Blazers,Dallas Mavericks,0.69953799880714629
+Sat Jan 20 2018,Los Angeles Clippers,Utah Jazz,0.57534176292609729
+Sun Jan 21 2018,Boston Celtics,Orlando Magic,0.74803298824792519
+Sun Jan 21 2018,Detroit Pistons,Brooklyn Nets,0.82867142114049219
+Sun Jan 21 2018,New York Knicks,Los Angeles Lakers,0.61654396422972835
+Sun Jan 21 2018,San Antonio Spurs,Indiana Pacers,0.81283588546420138
+Mon Jan 22 2018,Atlanta Hawks,Utah Jazz,0.65662972739804304
+Mon Jan 22 2018,Charlotte Hornets,Sacramento Kings,0.75995228680188653
+Mon Jan 22 2018,Dallas Mavericks,Washington Wizards,0.57421774388078095
+Mon Jan 22 2018,Portland Trail Blazers,Denver Nuggets,0.74928577883513214
+Mon Jan 22 2018,Miami Heat,Houston Rockets,0.52822232203187447
+Mon Jan 22 2018,Los Angeles Clippers,Minnesota Timberwolves,0.8097126389488406
+Mon Jan 22 2018,Memphis Grizzlies,Philadelphia 76ers,0.85642531897621399
+Mon Jan 22 2018,Milwaukee Bucks,Phoenix Suns,0.63833657328836213
+Mon Jan 22 2018,Chicago Bulls,New Orleans Pelicans,0.58686491672256691
+Tue Jan 23 2018,Golden State Warriors,New York Knicks,0.94703821037224556
+Tue Jan 23 2018,Boston Celtics,Los Angeles Lakers,0.85332443418320403
+Tue Jan 23 2018,Oklahoma City Thunder,Brooklyn Nets,0.93801321879401056
+Tue Jan 23 2018,Orlando Magic,Sacramento Kings,0.5703124744622694
+Tue Jan 23 2018,San Antonio Spurs,Cleveland Cavaliers,0.6335243235501099
+Wed Jan 24 2018,Toronto Raptors,Atlanta Hawks,0.54397342105575186
+Wed Jan 24 2018,Charlotte Hornets,New Orleans Pelicans,0.80012977769444837
+Wed Jan 24 2018,Dallas Mavericks,Houston Rockets,0.55935978815802345
+Wed Jan 24 2018,Detroit Pistons,Utah Jazz,0.56112488395580939
+Wed Jan 24 2018,Indiana Pacers,Phoenix Suns,0.83465181613685535
+Wed Jan 24 2018,Los Angeles Clippers,Boston Celtics,0.61419503305122736
+Wed Jan 24 2018,San Antonio Spurs,Memphis Grizzlies,0.85693454657025137
+Wed Jan 24 2018,Chicago Bulls,Philadelphia 76ers,0.83909143038269707
+Wed Jan 24 2018,Portland Trail Blazers,Minnesota Timberwolves,0.77611354234011687
+Thu Jan 25 2018,Denver Nuggets,New York Knicks,0.56073323565684485
+Thu Jan 25 2018,Golden State Warriors,Minnesota Timberwolves,0.92962349601088889
+Thu Jan 25 2018,Miami Heat,Sacramento Kings,0.77602836851875234
+Thu Jan 25 2018,Oklahoma City Thunder,Washington Wizards,0.79604917881115833
+Fri Jan 26 2018,Chicago Bulls,Los Angeles Lakers,0.87350940849099679
+Fri Jan 26 2018,Charlotte Hornets,Atlanta Hawks,0.52375245207246479
+Fri Jan 26 2018,Cleveland Cavaliers,Indiana Pacers,0.78166541358597263
+Fri Jan 26 2018,Portland Trail Blazers,Dallas Mavericks,0.55749377394292066
+Fri Jan 26 2018,Los Angeles Clippers,Memphis Grizzlies,0.69412485156074522
+Fri Jan 26 2018,Milwaukee Bucks,Brooklyn Nets,0.67634192208745392
+Fri Jan 26 2018,Houston Rockets,New Orleans Pelicans,0.66364100973868068
+Fri Jan 26 2018,New York Knicks,Phoenix Suns,0.54759798568969553
+Fri Jan 26 2018,San Antonio Spurs,Philadelphia 76ers,0.97718311127471602
+Fri Jan 26 2018,Toronto Raptors,Utah Jazz,0.76613918190878216
+Sat Jan 27 2018,Atlanta Hawks,Washington Wizards,0.65107367101865177
+Sat Jan 27 2018,Dallas Mavericks,Denver Nuggets,0.61224791648095611
+Sat Jan 27 2018,Oklahoma City Thunder,Detroit Pistons,0.73498188521739238
+Sat Jan 27 2018,Golden State Warriors,Boston Celtics,0.83170461782604155
+Sat Jan 27 2018,Indiana Pacers,Orlando Magic,0.7000742193888535
+Sat Jan 27 2018,Miami Heat,Charlotte Hornets,0.55765875275067811
+Sat Jan 27 2018,Minnesota Timberwolves,Brooklyn Nets,0.67904709564876964
+Sun Jan 28 2018,Chicago Bulls,Milwaukee Bucks,0.71272617235464619
+Sun Jan 28 2018,Cleveland Cavaliers,Detroit Pistons,0.80941093079207116
+Sun Jan 28 2018,Houston Rockets,Phoenix Suns,0.80994751996878389
+Sun Jan 28 2018,Los Angeles Clippers,New Orleans Pelicans,0.78000702019919044
+Sun Jan 28 2018,Oklahoma City Thunder,Philadelphia 76ers,0.96512567279207684
+Sun Jan 28 2018,San Antonio Spurs,Sacramento Kings,0.9098455647615683
+Sun Jan 28 2018,Toronto Raptors,Los Angeles Lakers,0.94401310114557924
+Mon Jan 29 2018,Atlanta Hawks,Minnesota Timberwolves,0.75579851475278303
+Mon Jan 29 2018,Miami Heat,Dallas Mavericks,0.51933951019851043
+Mon Jan 29 2018,Boston Celtics,Denver Nuggets,0.73921136923223951
+Mon Jan 29 2018,Charlotte Hornets,Indiana Pacers,0.51622962246694515
+Mon Jan 29 2018,Memphis Grizzlies,Phoenix Suns,0.7336826370111349
+Mon Jan 29 2018,Milwaukee Bucks,Philadelphia 76ers,0.79260102107177144
+Tue Jan 30 2018,Cleveland Cavaliers,Detroit Pistons,0.73689686395423726
+Tue Jan 30 2018,Houston Rockets,Orlando Magic,0.66337241771326083
+Tue Jan 30 2018,Los Angeles Clippers,Portland Trail Blazers,0.6015787251016137
+Tue Jan 30 2018,Sacramento Kings,New Orleans Pelicans,0.52641114016423773
+Tue Jan 30 2018,New York Knicks,Brooklyn Nets,0.72289438421069074
+Tue Jan 30 2018,San Antonio Spurs,Denver Nuggets,0.90431015628889022
+Tue Jan 30 2018,Toronto Raptors,Minnesota Timberwolves,0.84132340392887817
+Tue Jan 30 2018,Golden State Warriors,Utah Jazz,0.8225515936460972
+Tue Jan 30 2018,Oklahoma City Thunder,Washington Wizards,0.74456606982211859
+Wed Jan 31 2018,Atlanta Hawks,Charlotte Hornets,0.53147354848874573
+Wed Jan 31 2018,Boston Celtics,New York Knicks,0.81489335575184729
+Wed Jan 31 2018,Brooklyn Nets,Philadelphia 76ers,0.65186183214206594
+Wed Jan 31 2018,Cleveland Cavaliers,Miami Heat,0.77361289835345526
+Wed Jan 31 2018,Indiana Pacers,Memphis Grizzlies,0.69266330232326545
+Wed Jan 31 2018,Orlando Magic,Los Angeles Lakers,0.80733048006504959
+Wed Jan 31 2018,Dallas Mavericks,Phoenix Suns,0.70927792844227988
+Wed Jan 31 2018,Portland Trail Blazers,Chicago Bulls,0.73207316086708984
